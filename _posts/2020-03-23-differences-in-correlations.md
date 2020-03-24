@@ -1,6 +1,7 @@
 ---
 layout: post
 title: About Different Correlation Methods
+mathjax: true
 tags: correlations methodology pandas blog draft
 ---
 
