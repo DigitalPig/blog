@@ -4,10 +4,6 @@ title: About Different Correlation Methods
 tags: correlations methodology pandas blog draft
 ---
 
-
-# About Different Correlation Methods
-
-
 There are three different correlations: "Pearson", "Kendall" and "Spearman" based on `pandas.DataFrame.corr` [method](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.corr.html)
 
 What are those? What does each do? What are the differences between them? What should I use? In this short article, we will walk you through all three and explore a little deeper to answer what we should pick under different scenarios.
