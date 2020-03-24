@@ -1,11 +1,11 @@
 ---
 layout: post
 title: About Different Correlation Methods
+tags: correlations methodology pandas blog draft
 ---
 
 
 # About Different Correlation Methods
-###### tags: `correlations`, `methodology`, `pandas`, `blog`, `draft`
 
 
 There are three different correlations: "Pearson", "Kendall" and "Spearman" based on `pandas.DataFrame.corr` [method](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.corr.html)
