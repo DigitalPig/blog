@@ -1,4 +1,10 @@
-# Differences in Different Correlation Methods
+---
+layout: post
+title: About Different Correlation Methods
+---
+
+
+# About Different Correlation Methods
 ###### tags: `correlations`, `methodology`, `pandas`, `blog`, `draft`
 
 
